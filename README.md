@@ -49,5 +49,5 @@
          <h6> c) After these steps the programs asks you if you want to write marks by yourself (write "ivesti") or to generate randomly (write "sugeneruoti")</h6>
          <h6> d) If you choose to enter marks by yourself write as many grades as you want and when you are done write the number 0 and then enter egzam rezult. After these steps input starts again with writing name of a student.</h6>
          <h6> e) If you choose to generate marks randomly, the next step is to enter the number of grades you want to be generated. They will appear on the screen and input starts again with writing name of a student.</h6>
-          <6> f) when you are done with input the program asks you if you want to get a average (enter "vidurki") or a median (enter "mediana" and the output file will be created</h6>
+          <h6> f) when you are done with input the program asks you if you want to get a average (enter "vidurki") or a median (enter "mediana" and the output file will be created</h6>
                                                                                                                                         
