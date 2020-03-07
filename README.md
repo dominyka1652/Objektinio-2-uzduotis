@@ -4,12 +4,13 @@
 <h3> Releases </h3>
 <h6>1.First release (v0.1.1) is written using dynamic array to save marks. https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v0.1 </h6>
 <h6>2.Second release (v0.1.2) is written using vector instead of dynamic array. https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v0.1.2 </h6>
-<h6>3.Third realese (v0.2) in this version of the program you can choose wheter you want to enter data by yourself or read from a file and in both situations the output will be printed to a file. Also you can choose if you want to get an average of marks or a median. In the output file all students will be listed alphabetically by last name.https://github.com/dominyka1652/Objektinio-2-uzduotis/blob/master/v0.2.cpp
+<h6>3.Third realese (v0.2). In this version of the program you can choose wheter you want to enter data by yourself or read from a file and in both situations the output will be printed to a file. Also you can choose if you want to get an average of marks or a median. In the output file all students will be listed alphabetically by last name.https://github.com/dominyka1652/Objektinio-2-uzduotis/blob/master/v0.2.cpp</h6>
+<h6>4.Fourth release (v0.4). This version of the program allows you to choose wheather you want to generate files then read from those files, separate students by the average of marks and print to two files. The program calculates execution time of each part.https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v0.4</h6>
 
 <h3> Installation and usage </h3>
 <h6>1.If you do not have codeblocks, download and install it http://www.codeblocks.org/downloads </h6>
 <h6>2.Download the chosen release and open the program </h6>
-<h6>3.Press the button F9 to run the program </h6>
+<h6>3.Press the button F9 to run the program </h6>                  
 <h6>4.Enter the number of students </h6>
 <h6>5.Enter the answer to the question: if you know the number of homeworks type "taip", if not then type "ne". </h6>
 <h6>6.If you choose yes:</h6>
@@ -51,3 +52,17 @@
          <h6> e) If you choose to generate marks randomly, the next step is to enter the number of grades you want to be generated. They will appear on the screen and input starts again with writing name of a student.</h6>
           <h6> f) when you are done with input the program asks you if you want to get a average (enter "vidurki") or a median (enter "mediana" and the output file will be created</h6>
                                                                                                                                         
+<h3> Usage of version v0.4 </h3>
+<h6>1.The program asks you if you want to create files (write "sukurti") or not (write "nenoriu")
+          <h6>5.If you choose yes:</h6>
+          <h6>a) enter the number of files you want to generate</h6>
+          <h6>b) enter the number of sudents</h6>
+          <h6>c) enter the number of homeworks</h6>
+          <h6>d) enter "vidurki" if you want to get the average or enter "mediana" if you want to get median.</h6>   
+          <h6>e) if you choose more ten 1 file, then the program asks you to enter everything that is mentioned from b)<h6>
+<h6>2. If you choose no:</h6>
+<h6> a) enter "ivesti" if you want to input data manually or enter "nuskaityti" if you want to read from a file</h6>
+                    <h6>b) if you choose "ivesti" then look ->usage of a v0.2 version</h6>
+                    <h6>c) if you choose "nuskaityti" enter name of the file without ".txt"</h6>
+                    <h6>d) enter the number of marks without exam </h6>
+                    <h6>e) write "vidurki" if you want to get an average or "mediana" if you want to get a median</h6>
