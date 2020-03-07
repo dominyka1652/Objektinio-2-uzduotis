@@ -1,4 +1,4 @@
-<h3> Installation and usage </h3>
+<h3> Installation and usage of version v0.1 </h3>
 <h6>1.If you do not have codeblocks, download and install it http://www.codeblocks.org/downloads </h6>
 <h6>2.Download the chosen release and open the program </h6>
 <h6>3.Press the button F9 to run the program </h6>
