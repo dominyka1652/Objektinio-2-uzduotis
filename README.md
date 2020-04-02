@@ -4,10 +4,10 @@
 <h6>3.Press the button F9 to run the program </h6>
 <h6>4.Enter the number of students </h6>
 <h6>5.Enter the answer to the question: if you know the number of homeworks type "taip", if not then type "ne". </h6>
-<h6>6.If you choose yes:</h6>
-      <h6>-The program asks you to enter the number of marks</h6>
-          <h6> - Then write the name of student</h6>
-          <h6>c) Write the surname of student</h6>
+<h6>6.If you choose yes:
+     - The program asks you to enter the number of marks
+     - Then write the name of student
+     - Write the surname of student
          <h6> d) After these steps the programs asks you if you want to write marks by yourself (write "ivesti") or to generate randomly (write "sugeneruoti")</h6>
        <h6>   e) If you choose to enter marks by yourself write as many grades as you entered before and when you are done write the number 0 and then enter egzam rezult. After these steps input starts again with writing name of a student.</h6>
         <h6>  f) If you choose to generate marks randomly, they will appear on the screen and inputs start again with writing name of a student.</h6>
