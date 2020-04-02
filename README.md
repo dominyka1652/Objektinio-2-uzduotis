@@ -8,5 +8,5 @@
 4. Fourth release (v0.3) is separated into three files and some exceptions are used in the program [v0.3]( https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v0.3)
 5. Fifth release (v0.4) gives you the opportunity to generate files then read from those files, separate students by the average or median and print them into to files. [v0.4](https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v0.4)
 
-##!!! Descriptions how to use programs are in each branch !!! ##
+## !!! Descriptions how to use programs are in each branch !!!
                                                       
