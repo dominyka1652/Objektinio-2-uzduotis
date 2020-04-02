@@ -5,7 +5,7 @@
 <h6>4.Enter the number of students </h6>
 <h6>5.Enter the answer to the question: if you know the number of homeworks type "taip", if not then type "ne". </h6>
 <h6>6.If you choose yes:</h6>
-          <h6>a) The program asks you to enter the number of marks</h6>
+          <h6>-The program asks you to enter the number of marks</h6>
           <h6>b) Then write the name of student</h6>
           <h6>c) Write the surname of student</h6>
          <h6> d) After these steps the programs asks you if you want to write marks by yourself (write "ivesti") or to generate randomly (write "sugeneruoti")</h6>
