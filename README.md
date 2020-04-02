@@ -9,5 +9,4 @@
 <h6>5.Fifth release (v0.4) gives you the opportunity to generate files then read from those files, separate students by the average or median and print them into to files. https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v0.4</h6>
 
 <h2>!!! Descriptions how to use programs are in each branch !!! </h2>
-
-                                                                         It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)                                                               
+                                                      
