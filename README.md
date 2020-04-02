@@ -10,6 +10,6 @@
     - enter "ivesti" if you want to input data manually or enter "nuskaityti" if you want to read from a file:
       - if you choose "ivesti" then look ->usage of a v0.2 version
       - if you choose "nuskaityti" enter name of the file without ".txt"</h6>
-      - enter the number of marks without exam </h6>
-      - write "vidurki" if you want to get an average or "mediana" if you want to get a median</h6>
+     - enter the number of marks without exam </h6>
+     - write "vidurki" if you want to get an average or "mediana" if you want to get a median</h6>
 
