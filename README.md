@@ -1,6 +1,7 @@
 ### Usage of a v0.2 version
 1. Enter "ivesti" if you want to enter data manually or "nuskaityti" if you want it to be read from a file
 2. if you choose to read information from a file:
+    - Enter the name of a input file
     - In a next step enter the number of homework marks that is written in a file
     - Then write "vidurki" if you want to get a average of grades or "mediana" if you want to get median. After this a file named "Rezultatai" will be created in the same location as your program. 
 3. If you choose to enter data manually:
