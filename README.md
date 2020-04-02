@@ -1,10 +1,10 @@
 ## Installation and usage of version v0.1 ##
-1.If you do not have codeblocks, download and install it http://www.codeblocks.org/downloads 
-2.Download the chosen release and open the program
-3.Press the button F9 to run the program
-4.Enter the number of students
-5.Enter the answer to the question: if you know the number of homeworks type "taip", if not then type "ne".
-6.If you choose yes:
+1. If you do not have codeblocks, download and install it http://www.codeblocks.org/downloads 
+2. Download the chosen release and open the program
+3. Press the button F9 to run the program
+4. Enter the number of students
+5. Enter the answer to the question: if you know the number of homeworks type "taip", if not then type "ne".
+6. If you choose yes:
      - The program asks you to enter the number of marks
      - Then write the name of student
      - Write the surname of student
