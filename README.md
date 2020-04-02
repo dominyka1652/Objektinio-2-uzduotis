@@ -11,7 +11,6 @@
      - After these steps the programs asks you if you want to write marks by yourself (write "ivesti") or to generate randomly (write "sugeneruoti")
      - If you choose to enter marks by yourself write as many grades as you entered before and when you are done write the number 0 and then enter egzam rezult. After these steps input starts again with writing name of a student.
      - If you choose to generate marks randomly, they will appear on the screen and inputs start again with writing name of a student.
-####
 <h6>7. If you choose no: </h6>
          <h6> a) Program asks you to write the name of student</h6>
          <h6> b) After this write the surname of student</h6>
