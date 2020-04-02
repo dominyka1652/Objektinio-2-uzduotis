@@ -1,5 +1,5 @@
 ## Installation and usage of version v0.1 ##
-#### 1. If you do not have codeblocks, download and install it http://www.codeblocks.org/downloads 
+1. If you do not have codeblocks, download and install it [codeblocks](http://www.codeblocks.org/downloads)
 2. Download the chosen release and open the program
 3. Press the button F9 to run the program
 4. Enter the number of students
