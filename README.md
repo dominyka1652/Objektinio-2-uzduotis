@@ -1,4 +1,4 @@
-<h3> Installation and usage of version v0.1 </h3>
+## Installation and usage of version v0.1 ##
 <h6>1.If you do not have codeblocks, download and install it http://www.codeblocks.org/downloads </h6>
 <h6>2.Download the chosen release and open the program </h6>
 <h6>3.Press the button F9 to run the program </h6>
@@ -19,6 +19,3 @@
          <h6> e) If you choose to generate marks randomly, the next step is to enter the number of grades you want to be generated. They will appear on the screen and input starts again with writing name of a student.</h6>
 <h6> 8. After all inputs the output will appear on the screen: name, surname, average, median. </h6>
 
-- George Washington
-- John Adams
-- Thomas Jefferson
