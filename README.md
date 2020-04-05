@@ -8,7 +8,7 @@
 4. Fourth release (v0.3) is separated into three files and some exceptions are used in the program [v0.3]( https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v0.3)
 5. Fifth release (v0.4) gives you the opportunity to generate files then read from those files, separate students by the average or median and print them into to files. [v0.4](https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v0.4)
 6. Sixth release (v0.5) has 3 versions with different containers: vector, list and deque. Program additionaly prints how much time it takes to read data from a file and separate students into two groups. [v0.5](https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v0.5)
-7. Seventh release (v1). In this version I am using a different method to separate students into two groups. I move data from a main container to a new one and remove that data from a main container instead of creating new containers for both groups. Also I test some vector algorithms to see how it helps to improve program time.[v1](https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v.1)
+7. Seventh release (v1). In this version I am using a different method to separate students into two groups. I move data from a main container to a new one and remove that data from a main container instead of creating new containers for both groups. Also I test some vector algorithms to see how it helps to improve program time. I added make files for each version to compile programs faster through a cmd [v1](https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v.1)
 
 ## !!! Descriptions how to use programs are in each branch !!!
                                                       
