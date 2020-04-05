@@ -1,0 +1,10 @@
+main: v.1vector.o
+        g++ -o main v.1vectormain.cpp v.1vector.o
+
+vector:
+        g++ -c v.1vector.cpp
+
+clean:
+        rm *.o main
+
+
