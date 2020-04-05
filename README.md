@@ -7,7 +7,7 @@
 3. Third realese (v0.2) in this version of the program you can choose wheter you want to enter data by yourself or read from a file and in both situations the output will be printed to a file. Also you can choose if you want to get an average of marks or a median. In the output file all students will be listed alphabetically by last name. [v0.2](https://github.com/dominyka1652/Objektinio-2-uzduotis/blob/master/v0.2.cpp)
 4. Fourth release (v0.3) is separated into three files and some exceptions are used in the program [v0.3]( https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v0.3)
 5. Fifth release (v0.4) gives you the opportunity to generate files then read from those files, separate students by the average or median and print them into to files. [v0.4](https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v0.4)
-6. Sixth release (0.5) has 3 versions using different containers: vector, list and deque. Program additionaly prints how much time it takes to read data from a file and separate students into two groups. [v0.5](https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v0.5)
+6. Sixth release (0.5) has 3 versions with different containers: vector, list and deque. Program additionaly prints how much time it takes to read data from a file and separate students into two groups. [v0.5](https://github.com/dominyka1652/Objektinio-2-uzduotis/releases/tag/v0.5)
 
 ## !!! Descriptions how to use programs are in each branch !!!
                                                       
