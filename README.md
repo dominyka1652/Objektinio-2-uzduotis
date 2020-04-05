@@ -7,7 +7,7 @@
 1. g++ -c v0.2.cpp
 2. g++ -o main v0.2.o
 3. main.exe
-<h6></h6>
+####
 1. Enter "ivesti" if you want to enter data manually or "nuskaityti" if you want it to be read from a file
 2. if you choose to read information from a file:
     - Enter the name of a input file
