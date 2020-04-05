@@ -1,4 +1,12 @@
 ### Usage of version v0.4 
+1. If you do not have codeblocks, download and install it [codeblocks](http://www.codeblocks.org/downloads)
+2. Download the chosen release and open the program
+3. Press the button F9 to run the program
+###### Or use cmd:
+1. g++ -c v0.4main.cpp v0.4.cpp
+2. g++ -o main v0.4main.o v0.4.o
+3. main.exe
+###
 1. The program asks you if you want to create files (write "sukurti") or not (write "nenoriu")
 2. If you choose yes:
     - enter the number of files you want to generate
