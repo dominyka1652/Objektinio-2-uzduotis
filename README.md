@@ -1,4 +1,12 @@
 ### Usage of version v0.5 
+1. If you do not have codeblocks, download and install it [codeblocks](http://www.codeblocks.org/downloads)
+2. Download the chosen release and open the program
+3. Press the button F9 to run the program
+###### Or use cmd:
+1. g++ -c v0.5vector.main.cpp v0.5vector.cpp (or v0.5list.main.cpp v0.5list.cpp / v0.5deque.main.cpp v0.5deque.cpp)
+2. g++ -o main v0.5vector.main.o v0.5vector.o (or v0.5list.main.0 v0.5list.o / v0.5deque.main.o v0.5deque.o)
+3. main.exe
+###
 1. The program asks you if you want to create files (write "sukurti") or not (write "nenoriu")
 2. If you choose yes:
     - enter the number of files you want to generate
