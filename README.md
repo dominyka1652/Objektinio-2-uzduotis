@@ -1,7 +1,5 @@
 ### Usage of version v1 
 
-In this version I am using a different method to separate students into two groups. I move data from a main container to a new one and remove that data from a main container. 
-
 Open cmd in file location then enter "make" and enter "main"
 
 1. The program asks you if you want to create files (write "sukurti") or not (write "nenoriu")
