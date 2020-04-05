@@ -2,6 +2,11 @@
 1. If you do not have codeblocks, download and install it [codeblocks](http://www.codeblocks.org/downloads)
 2. Download the chosen release and open the program
 3. Press the button F9 to run the program
+###### Or use cmd:
+1. g++ -c v0.2.cpp
+2. g++ -o main v0.2.o
+3. main.exe
+###
 4. Enter the number of students
 5. Enter the answer to the question: if you know the number of homeworks type "taip", if not then type "ne".
 6. If you choose yes:
