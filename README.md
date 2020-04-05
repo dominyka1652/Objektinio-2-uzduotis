@@ -19,3 +19,26 @@ Open cmd in file location then enter "make" and enter "main"
      - write "vidurki" if you want to get an average or "mediana" if you want to get a median
 4. You will see how much time it takes to read data from a file and separate into two groups.
 
+#### My PC :
+1. CPU - Intel core i7
+2. RAM - 8GB
+3. HDD - 1TB
+
+##### Results:
+Which (vector, deque or list) is the fastest?
+1. Reading from a file:
+    - Nr1. list
+    - Nr2. vector
+    - Nr3. deque
+2. Separation:
+    - Nr1. vector
+    - Nr2. list
+    - Nr3. deque
+    
+##### Vector with and without some algorithms
+1. Reading from a file:
+    - Nr1. with
+    - Nr2. without
+2. Separation:
+    - Nr1. without
+    - Nr2. with
