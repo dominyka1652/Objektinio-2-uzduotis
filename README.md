@@ -1,5 +1,5 @@
-###Program to count student grades
-####This program 
+### Program to count student grades
+#### This program 
 
 
 1. First version [v0.1](https://github.com/dominyka1652/dominyka1652-OOP1/releases/tag/v0.1) allows you to enter name and surname of a student, homework grades and exam grade.
