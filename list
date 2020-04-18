@@ -1,8 +1,0 @@
-main: v.1list.o
-        g++ -o main v.1listmain.cpp v.1list.o
-
-vector:
-        g++ -c v.1list.cpp
-
-clean:
-        rm *.o main
