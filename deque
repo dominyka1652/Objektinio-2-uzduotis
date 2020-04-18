@@ -1,8 +1,0 @@
-main: v.1deque.o
-        g++ -o main v.1dequemain.cpp v.1deque.o
-
-vector:
-        g++ -c v.1deque.cpp
-
-clean:
-        rm *.o main
