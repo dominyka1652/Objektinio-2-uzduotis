@@ -1,13 +1,26 @@
-###Program to count student grades
-####This program 
-
-
-1. First version [v0.1](https://github.com/dominyka1652/dominyka1652-OOP1/releases/tag/v0.1) allows you to enter name and surname of a student, homework grades and exam grade.
-You can choose if you want to calculate final grade using median or average. There is an opportunity to generate grades randomly. Realizations are made using two containers: a dynamic array and a vector.
-2. Second version [v0.2](https://github.com/dominyka1652/dominyka1652-OOP1/releases/tag/v0.2) additionaly allows you to read data from a file and prints sorted data.
-3. Third version [v0.3](https://github.com/dominyka1652/dominyka1652-OOP1/releases/tag/v0.3) is separated into .cpp files and header file. Also some exception handling was added.
-4. Fourth version [v0.4](https://github.com/dominyka1652/dominyka1652-OOP1/releases/tag/v0.4) gives the opportunity to generate files. The program separates students into two files according to their final grades. You will be able to see how long each part of the program took.
-5. Fifth version [v0.5](https://github.com/dominyka1652/dominyka1652-OOP1/releases/tag/v0.5) has 3 realizations using different containers: vector, list and deque.
-6. Final version [v1.0](https://github.com/dominyka1652/dominyka1652-OOP1/releases/tag/v1) has 3 realizations using different containers: vector, list and deque. In this version the separation into two files has been changed: I copy data to a new container and delete that information from a old container.
-
-#### The explanations how to use each version are in branches.
+## Installation and usage of version v0.1 ##
+1. If you do not have codeblocks, download and install it [codeblocks](http://www.codeblocks.org/downloads)
+2. Download the chosen release and open the program
+3. Press the button F9 to run the program
+###### Or use cmd:
+1. g++ -c v0.1.1.cpp (or v0.1.2.cpp)
+2. g++ -o main v0.1.1.o (or v0.1.2.o)
+3. main.exe.o
+###
+4. Enter the number of students
+5. Enter the answer to the question: if you know the number of homeworks type "taip", if not then type "ne".
+6. If you choose yes:
+     - The program asks you to enter the number of marks
+     - Then write the name of student
+     - Write the surname of student
+     - After these steps the programs asks you if you want to write marks by yourself (write "ivesti") or to generate randomly (write "sugeneruoti"):
+       - If you choose to enter marks by yourself write as many grades as you entered before and when you are done write the number 0 and then enter egzam rezult. After these steps input starts again with writing name of a student.
+       - If you choose to generate marks randomly, they will appear on the screen and inputs start again with writing name of a student.
+7. If you choose no:
+    - Program asks you to write the name of student
+    - After this write the surname of student
+    - After these steps the programs asks you if you want to write marks by yourself (write "ivesti") or to generate randomly (write "sugeneruoti"):
+      - If you choose to enter marks by yourself write as many grades as you want and when you are done write the number 0 and then enter egzam rezult. After these steps inputs start again with writing name of a student.
+      - If you choose to generate marks randomly, the next step is to enter the number of grades you want to be generated. They will appear on the screen and input starts again with writing name of a student.
+8. If you want to get an average write "vidurki", or write "mediana" if you want to get a median.
+9. After all inputs the output will appear on the screen: name, surname, average or median.
